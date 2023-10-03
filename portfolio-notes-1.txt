@@ -1,0 +1,30 @@
+{
+    name: 'Arthena',
+    position: 'Co-founder & C.T.O.',
+    url: 'https://arthena.com',
+    startDate: '2014-01-01',
+    endDate: '2022-01-01',
+    summary: `Arthena is a Series A Company funded by <a href="https://www.anthemis.com/">Athemis</a>,
+    <a href="https://foundationcapital.com">Foundation Capital</a>, and <a href="https://ycombinator.com/">YC</a>.
+    We develop quantitative strategies to predict the value of fine art and build investment products.
+    I ran a 20-person product and engineering org for 8 years. We were acquired by
+    <a href="https://www.masterworks.com/">Masterworks</a> in 2023.`,
+    highlights: [
+      'Built production, online, end-to-end optimized machine learning pipelines for time-series prediction.',
+      'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
+      "Set and communicated team priorities that supported the broader organization's goals. Aligned strategy, processes, and decision-making across teams.",
+      "Set clear expectations with individuals based on their level and role and aligned them to the broader organization's goals. Met regularly with individuals to discuss performance and development, and provided feedback and coaching.",
+      'Developed the long-term technical vision and roadmap within, and often beyond, the scope of my teams. Evolved the roadmap to meet anticipated future requirements and infrastructure needs.',
+    ],
+  },
+  {
+    name: 'UB Nanosatellite Program',
+    position: 'Co-founder, Program Manager',
+    url: 'https://ubnl.space/',
+    startDate: '2010-10-01',
+    endDate: '2012-06-01',
+    highlights: [
+      'Coauthored grant to build a multi-spectral imaging satellite as part of the AFRL University Nanosatellite Program.',
+      'Lead a team of 60 students through satellite development life cycle. Served as a technical expert, acquired intimate working knowledge of satellite subsystems.  Solicited funding through NASA, AFOSR, and several corporate sponsors.',
+    ],
+  },

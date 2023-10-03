@@ -13,17 +13,15 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Rakesh Chowdary Yarlagadda</h2>
-        <p><a href="mailto:rakeshchowdary.yarlagadda@colorado.edu">rakeshchowdary.yarlagadda@colorado.edu</a></p>
+        <p><a href="mailto:rakeshchowdary.yarlagadda@colorado.edu">raya3562@colorado.edu</a></p>
+        <ContactIcons />
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Rakesh. I am a <a href="https://icme.stanford.edu/"> ICME</a> graduate, YC Alumni,
-        and the VP of Engineering at <a href="https://smileidentity.com">Smile Identity</a>. Previously,
-        I was the co-founder and CTO of <a href="https://arthena.com">Arthena</a>
-        , co-founder of <a href="https://matroid.com">Matroid</a>, and worked at
-        {' '}<a href="https://planet.com">Planet</a> and <a href="https://facebook.com">Facebook</a>.
+      <p>Hello, I&apos;m Rakesh Chowdary. I am a graduate student at <a href="https://www.colorado.edu/">University of Colorado Boulder</a> pursing Masters in Computer Science,
+        and Former Senior Data Engineer at <a href="https://corporate.target.com/">Target Corporation</a>.
       </p>
       <ul className="actions">
         <li>
@@ -33,7 +31,6 @@ const SideBar = () => (
     </section>
 
     <section id="footer">
-      <ContactIcons />
       <p className="copyright">&copy; Rakesh Chowdary Yarlagadda <Link to="/">rakeshcy.com</Link>.</p>
     </section>
   </section>

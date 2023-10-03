@@ -4,10 +4,10 @@ const routes = [
     label: 'Rakesh ',
     path: '/',
   },
-  // {
-  //   label: 'About',
-  //   path: '/about',
-  // },
+  {
+    label: 'About',
+    path: '/about',
+  },
   {
     label: 'Resume',
     path: '/resume',
