@@ -39,11 +39,11 @@ Ask me in person for other stories that I'm afraid to share with the internet. -
 
 # I like
 
-- Books
+- [Books](https://www.goodreads.com/user/show/170615969?ref=nav_profile_l) ([Shoe Dog](https://www.goodreads.com/book/show/27220736-shoe-dog), [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications?ref=nav_sb_ss_1_11), [Fundamentals of Data Engineering](https://www.goodreads.com/book/show/61218623-fundamentals-of-data-engineering?ref=nav_sb_ss_1_16))
 - Cricket
 - Drama TV Shows
 - Summer
-- [Books](https://www.goodreads.com/mdangelo)
+<!-- - [Books](https://www.goodreads.com/mdangelo) -->
 <!-- - Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos)) -->
 - Podcasts ([Lex Fridman](https://lexfridman.com/podcast/), [Planet Money](https://www.npr.org/sections/money/))
 
